@@ -12,9 +12,11 @@ In general frontend frameworks will help you most of the way, but there are many
 - Name repository methods eg. as `ThatLivesIn(City("Copenhagen"));` instead of eg. `WithCity` so it reads out well. That would make it read `var users = users.ThatLivesIn(new City("Copenhagen"))`
 
 
-## Looks GREAT To Me: Getting Past Bare Minimum Code Reviews
+## Looks GREAT To Me: Getting Past Bare Minimum Code Reviews (https://www.youtube.com/watch?v=1FdcIvfSi_A)
 A talk on the key concepts from her book [Looks Good to me](https://www.manning.com/books/looks-good-to-me) where she talks about do's and dont's in PR.
+- Remember to state the
 - A PR review can take up to 45 min
 - Don't do large PR's (eg. +50 file changes)
 - Include a good description so the reviewer doesn't have to start digging to understand what's going on
 - Don't nitpick, and if you do, keep it at a minimum
+- Tripple R Pattern: Request, Rationale, Result
