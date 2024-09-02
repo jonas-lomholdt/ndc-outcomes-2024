@@ -17,3 +17,4 @@ A talk on the key concepts from her book [Looks Good to me](https://www.manning.
 - A PR review can take up to 45 min
 - Don't do large PR's (eg. +50 file changes)
 - Include a good description so the reviewer doesn't have to start digging to understand what's going on
+- Don't nitpick, and if you do, keep it at a minimum
