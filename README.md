@@ -2,6 +2,8 @@
 Key outcomes from NDC Developers Festival 2024
 
 ## Building Secure ReactJS Applications: Mastering Advanced Security Techniques
+> YouTube version https://www.youtube.com/watch?v=PyLE8ujGQMg of the same talk but from last year. It changed a little bit, but much of the same content.
+
 In general frontend frameworks will help you most of the way, but there are many ways to circumvent the inbuilt security if not handled properly.
 
 - There's an [ESLint plugin](https://www.npmjs.com/package/eslint-plugin-security) that will find many of the common security mistakes and highlight them if they happen
